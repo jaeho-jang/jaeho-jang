@@ -9,8 +9,7 @@
         box-shadow: 1.5px 1.5px
     }
 </style> -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header" onclick="function (event) {event.preventDefault();}" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 <div align="center">
     <h1>👋 Hi there👋</h1>
     <p>I'm Jaeho Jang, a growing developer.</p>
