@@ -10,9 +10,11 @@
     }
 </style> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
+
 <div align="center">
     <h1>👋 Hi there👋</h1>
     <p>I'm Jaeho Jang, a growing developer.</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jaeho-jang&count_private=true&show_icons=true&theme=omni">
     <h2>Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
