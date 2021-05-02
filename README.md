@@ -14,7 +14,7 @@
 <div align="center">
     <h1>👋 Hi there👋</h1>
     <p>I'm Jaeho Jang, a growing developer.</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaeho-jang&count_private=true&show_icons=true&theme=omni">
+    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni">
     <h2>Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
@@ -72,7 +72,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 <!--
-**jaeho-jang/jaeho-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lemphis/lemphis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
