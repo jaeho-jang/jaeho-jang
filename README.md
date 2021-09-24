@@ -17,11 +17,12 @@
     <!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wogh6475" />
     <br /> -->
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=wogh6475" />
+    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
     <h2>Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+        <img src="https://img.shields.io/badgeHTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
         <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=black" />
