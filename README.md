@@ -14,7 +14,10 @@
 <div align="center">
     <h1>👋 Hi there👋</h1>
     <p>I'm Jaeho Jang, a growing developer.</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaeho-jang&count_private=true&show_icons=true&theme=omni">
+    <!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wogh6475" />
+    <br /> -->
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=wogh6475" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
     <h2>Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
