@@ -43,9 +43,12 @@
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white" />
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white" />
         <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white" />
     </div>
     <div>
         <h3>Data</h3>
