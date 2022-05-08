@@ -12,13 +12,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
 <div align="center">
-    <h1>👋 Hi there👋</h1>
-    <p>I'm Jaeho Jang, a growing developer.</p>
-    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475">
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
-    <h2>Tech Stack</h2>
+    <div>
+        <h1>👋 Hi there👋</h1>
+        <p>I'm Jaeho Jang, a growing developer.</p>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475">
+        <br />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
+        <br />
+        <br />
+    </div>
+    <h2>🛠 Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
         <img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
@@ -74,6 +78,16 @@
         <h3>IDE</h3>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
         <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
+    </div>
+    <br />
+    <br />
+    <div>
+        <h2>💁‍ How popular ?!</h2>
+        <p>
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemphis&count_bg=%239EA0A0&title_bg=%23A9C743&icon=github.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false" />
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=wogh6475" />
+            <img src="https://img.shields.io/github/followers/lemphis?style=flat" />
+        </p>
     </div>
 </div>
 
