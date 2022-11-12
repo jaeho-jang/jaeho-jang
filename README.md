@@ -9,7 +9,7 @@
         box-shadow: 1.5px 1.5px
     }
 </style> -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header) -->
 
 <div align="center">
     <div>
@@ -25,15 +25,10 @@
     <h2>🛠 Tech Stack</h2>
     <div>
         <h3>Web Client</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=black" />
         <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=black" />
-        <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" />
     </div>
     <div>
         <h3>Web Server</h3>
@@ -45,12 +40,12 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white" />
         <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" />
     </div>
     <div>
         <h3>Data</h3>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
@@ -83,7 +78,7 @@
     </div>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer) -->
 <!--
 **lemphis/lemphis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
