@@ -18,9 +18,12 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475">
         <br />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
-        <br />
-        <br />
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" style="height: 190px;" />
+            &nbsp;
+            &nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=omni" />
+        </div>
     </div>
     <h2>🛠 Tech Stack</h2>
     <div>
