@@ -18,12 +18,10 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475">
         <br />
         <br />
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" style="height: 190px;" />
-            &nbsp;
-            &nbsp;
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=omni" />
-        </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
+        <br />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=omni" />
     </div>
     <h2>🛠 Tech Stack</h2>
     <div>
@@ -59,6 +57,7 @@
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
         <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=Github%20Actions&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
     </div>
     <div>
         <h3>IDE</h3>
