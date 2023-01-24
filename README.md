@@ -22,6 +22,8 @@
         <br />
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=omni" />
+        <br />
+        <br />
     </div>
     <h2>🛠 Tech Stack</h2>
     <div>
