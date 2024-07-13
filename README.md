@@ -44,11 +44,10 @@ Recently, I've been deeply engaged with Rust, exploring its capabilities and und
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475" />
 </p>
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=onedark" width="450" height="200" />
-    <div style="width: 10px;"></div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=onedark" width="300" height="200" />
-</div>
+</p>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=lemphis&theme=onedark&card_height=200" />
 </o>
