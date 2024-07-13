@@ -43,8 +43,8 @@ Recently, I've been deeply engaged with Rust, exploring its capabilities and und
 
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=onedark" width="500" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=onedark" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=onedark" width="450" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=onedark" width="300" height="200" />
     <img src="https://streak-stats.demolab.com?user=lemphis&theme=onedark&card_width=500&card_height=200" />
 </p>
 
