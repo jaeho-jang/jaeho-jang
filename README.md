@@ -40,13 +40,16 @@ Recently, I've been deeply engaged with Rust, exploring its capabilities and und
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"  alt="Kubernetes" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" alt="Github Actions" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="55" height="55"> |
 
 ---
-
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475" />
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=onedark" width="450" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemphis&langs_count=8&layout=compact&count_private=true&theme=onedark" width="300" height="200" />
-    <img src="https://streak-stats.demolab.com?user=lemphis&theme=onedark&card_width=500&card_height=200" />
 </p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=lemphis&theme=onedark&card_height=200" />
+</o>
 
 ---
 
